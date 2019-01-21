@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\sebim\\Documents\\GitKraken\\Unity\\Colonized\\FlappyHooman\\Assembly-CSharp.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
